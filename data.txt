@@ -1,0 +1,22 @@
+Data Pemantaun Covid19 wilayah DKI Jakarta
+Per 23 April 2020 18:45:47 (Waktu dan Jam Sekarang)
+ifon/3663
+ 
+Positif : 30
+Dirawat : 40
+Sembuh : 535
+Meninggal : 737Data Pemantaun Covid19 wilayah DKI Jakarta
+Per 24 April 2020 08:08:20 (Waktu dan Jam Sekarang)
+ifon krisman zalogo/2016140782
+ 
+Positif : 2902
+Dirawat : 1769
+Sembuh : 206
+Meninggal : 257Data Pemantaun Covid19 wilayah DKI Jakarta
+Per 24 April 2020 08:10:34 (Waktu dan Jam Sekarang)
+ifon krisman zalogo/2016140782
+ 
+Positif : 2902
+Dirawat : 1769
+Sembuh : 206
+Meninggal : 257
